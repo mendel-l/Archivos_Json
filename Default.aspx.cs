@@ -47,7 +47,7 @@ namespace Archivos_Json
         {
             Alumno alumno = new Alumno();
             alumno.NoCarne = TextBoxCarne.Text;
-            alumno.FirstName = TextBoxCarne.Text;
+            alumno.FirstName = TextBoxName.Text;
             alumno.LastName = TextBoxLastName.Text;
             alumno.Notas = NotasTemp;
 

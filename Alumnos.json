@@ -1,1 +1,27 @@
-[{"NoCarne":"","Notas":[],"FirstName":"","LastName":"","Address":0,"DateOfBirth":"0001-01-01T00:00:00"}]
+[
+  {
+    "NoCarne": "01",
+    
+    "Notas": [ 50, 55, 60, 65 ],
+    "FirstName": "nombre1",
+    "LastName": "apellido1",
+    "Address": 0,
+    "DateOfBirth": "0001-01-01T00:00:00"
+  },
+  {
+    "NoCarne": "02",
+    "Notas": [ 50, 55, 60, 65 ],
+    "FirstName": "nombre2",
+    "LastName": "apellido2",
+    "Address": 0,
+    "DateOfBirth": "0001-01-01T00:00:00"
+  },
+  {
+    "NoCarne": "03",
+    "Notas": [ 50, 55, 60, 65 ],
+    "FirstName": "nombre3",
+    "LastName": "apellido3",
+    "Address": 0,
+    "DateOfBirth": "0001-01-01T00:00:00"
+  }
+]
